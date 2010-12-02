@@ -1,0 +1,5 @@
+= I18n Date Parser
+
+Aim to parse localized dates.
+
+I18n can print out localized dates but can't parse them back. I18n Date Parser to the rescue.
